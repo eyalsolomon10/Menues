@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.Menus. Interfaces", "B16 Ex04 Idan 305342768 Eyal 200651669\Ex04.Menus. Interfaces.csproj", "{07604A51-7B89-4961-AC36-FBD4EC559AA7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.Menus.Interfaces", "B16 Ex04 Idan 305342768 Eyal 200651669\Ex04.Menus.Interfaces.csproj", "{07604A51-7B89-4961-AC36-FBD4EC559AA7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.Menus. Delegates", "Ex04.Menus. Delegates\Ex04.Menus. Delegates.csproj", "{E8CFF326-5740-4331-9B30-02FE3925F9AF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.Menus.Delegates", "Ex04.Menus. Delegates\Ex04.Menus.Delegates.csproj", "{E8CFF326-5740-4331-9B30-02FE3925F9AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.Menus. Test", "Ex04.Menus. Test\Ex04.Menus. Test.csproj", "{7C70AC6C-6825-45AB-BDA3-BDFF3FEF0395}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04.Menus.Test", "Ex04.Menus. Test\Ex04.Menus.Test.csproj", "{7C70AC6C-6825-45AB-BDA3-BDFF3FEF0395}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

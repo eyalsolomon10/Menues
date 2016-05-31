@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{07604A51-7B89-4961-AC36-FBD4EC559AA7}</ProjectGuid>
-    <OutputType>Exe</OutputType>
+    <ProjectGuid>{E8CFF326-5740-4331-9B30-02FE3925F9AF}</ProjectGuid>
+    <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>B16_Ex04_Idan_305342768_Eyal_200651669</RootNamespace>
-    <AssemblyName>B16 Ex04 Idan 305342768 Eyal 200651669</AssemblyName>
+    <RootNamespace>Ex04.Menus.Delegates</RootNamespace>
+    <AssemblyName>Ex04.Menus.Delegates</AssemblyName>
     <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -30,6 +30,9 @@
     <DefineConstants>TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
   </PropertyGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
